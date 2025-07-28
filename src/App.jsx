@@ -5,8 +5,8 @@ import Home from "./pages/home";
 import ServicePage from "./pages/servicepage";
 import ContactPage from "./pages/contactPage";
 import AboutPage from "./pages/aboutPage"; 
-import LoginPage from "./pages/LoginPage";
-import RegisterPage from "./pages/RegisterPage";
+import LoginPage from "./pages/loginPage";
+import RegisterPage from "./pages/registerPage";
 
 
 function App() {
